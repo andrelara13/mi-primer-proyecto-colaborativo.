@@ -3,7 +3,7 @@
 Aprender a utilizar Git y GitHub para trabajar de manera colaborativa.
 
 ## Integrante
-- Andrea Lara
+- Andre Lara
 
 ## Herramientas colaborativas investigadas
 - Git
