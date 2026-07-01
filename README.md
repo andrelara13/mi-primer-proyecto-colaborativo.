@@ -10,3 +10,9 @@ Aprender a utilizar Git y GitHub para trabajar de manera colaborativa.
 - GitHub
 - GitHub Issues
 - Pull Requests
+<h2>Herramientas utilizadas</h2>
+<ul>
+    <li>HTML</li>
+    <li>Git</li>
+    <li>GitHub</li>
+</ul>
