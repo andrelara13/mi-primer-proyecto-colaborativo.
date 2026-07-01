@@ -4,6 +4,7 @@ Aprender a utilizar Git y GitHub para trabajar de manera colaborativa.
 
 ## Integrante
 - Andre Lara
+- Tyron Falconi
 
 ## Herramientas colaborativas investigadas
 - Git
